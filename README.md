@@ -363,10 +363,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 **Email**: your.email@example.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/hypothesis-testing-tool/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/hypothesis-testing-tool/discussions)
-- 📚 **Wiki**: [Project Wiki](https://github.com/yourusername/hypothesis-testing-tool/wiki)
+- 📧 **Email**: sandilyasrinivasgarimella@gmail.com
+- 🐛 **Issues**: [GitHub Issues](https://github.com/sandilyasrinivas1809/hypothesis-testing-tool/issues)
+- 📚 **Wiki**: [Project Wiki](https://github.com/sandilyasrinivas1809/hypothesis-testing-tool/wiki)
 
 ---
 
