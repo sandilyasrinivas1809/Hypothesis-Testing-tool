@@ -61,7 +61,7 @@ The **Statistical Hypothesis Testing Tool** is a powerful Python library that pr
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/hypothesis-testing-tool.git
+git clone https://github.com/sandilyasrinivas1809/hypothesis-testing-tool.git
 cd hypothesis-testing-tool
 
 # Install dependencies
@@ -289,7 +289,7 @@ We welcome contributions! Here's how you can help:
 
 ```bash
 # Fork and clone the repository
-git clone https://github.com/yourusername/hypothesis-testing-tool.git
+git clone https://github.com/sandilyasrinivas1809/hypothesis-testing-tool.git
 
 # Create a virtual environment
 python -m venv venv
@@ -365,6 +365,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 📧 **Email**: sandilyasrinivasgarimella@gmail.com
 - 🐛 **Issues**: [GitHub Issues](https://github.com/sandilyasrinivas1809/hypothesis-testing-tool/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/sandilyasrinivas1809/hypothesis-testing-tool/discussions)
 - 📚 **Wiki**: [Project Wiki](https://github.com/sandilyasrinivas1809/hypothesis-testing-tool/wiki)
 
 ---
@@ -373,6 +374,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ If you find this tool helpful, please consider giving it a star! ⭐**
 
-Made with ❤️ by the Statistical Computing Community
+Made with ❤️ by Sandilya Srinivas Garimella
 
 </div>
